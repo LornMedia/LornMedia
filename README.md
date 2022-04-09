@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @LornMedia
+- 👀 I’m interested in web programming and fashion design.
+- 📫 You can access it on my website’s contact menu or via email.
